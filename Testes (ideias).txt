@@ -1,0 +1,125 @@
+Testes (que podem vir) a serem feitos:
+
+- Gramática e pontuação
+	- Checar por ortografia correta, erros de digitação e erros em geral. Checar pela navegação, botões, formulários, etc.
+- Formulários
+	- O fluxo pode ser melhorado?
+	- As instruções são claras?
+	- O formulário depois de completo e executado, faz o que é esperado?
+
+- Imagens
+	- As imagens estão todas optimizadas para a web de acordo com onde se encontram?
+		- Ex: Uma thumbnail não precisa ter qualidade full hd e pesar 3mb
+
+- Contexto
+	- Com um olhar crítico, a página passa facilmente qual o propósito dela?
+	- O conteúdo está pronto para o visitante?
+	- A página se dirige à audiência esperada?
+
+- Velocidade do site
+	- Checar o tamanho das páginas e a velocidade de carregamento, o teste pode ser feito utilizando a ferramenta do google https://testmysite.thinkwithgoogle.com/
+
+- Mobile Friendly
+	- Checar se o site é amigável a quem está acessando por um dispositivo mobile.
+		- O google possui outra ferramenta que pode ser utilizada https://search.google.com/search-console/mobile-friendly
+
+- Compatibilidade entre os browsers
+	- O website carrega corretamente entre os browsers? (Firefox, Chrome e Edge)
+
+- Fontes
+	- A formatação está consistente?
+
+- Navegação
+	- Testar a navegação exaustivamente. Ter certeza que qualquer rota possível que o usuário tome navegando pelo site vai levar para onde é esperado, sem nenhum link quebrado ou página errada. Ter certeza que a busca funciona e entrega resultados precisos.
+
+- Google Search Console
+	- Ferramenta grátis e livre para o uso que varre e avisa o site caso algo esteja errado. Aumento de páginas 404, detecção de malwave, erros, etc). Também pode ser utilizada para monitorar a performance do site, identificar problemas, remover conteúdo não indexado, ver as buscas que trazem mais visitantes, checar backlinks, etc.
+
+- O código está minificado?
+	- O código do site foi comprimido para diminuir o tamanho e acelerar/optimizar o carregamento?
+
+- Páginas 404
+	- Quando ocorrer um erro de página não encontrada (erro 404), o site é amigável ao usuário? (levar à busca, sitemap ou dizer o que pode fazer)
+
+- Favicon
+	- O favicon está sendo utilizado corretamente? A simples existência do favicon pode levar a uma maior credibilidade ao site
+
+- Tags (Title, Meta)
+	- Toda página possui uma title tag única? Possuem a tag meta?
+
+- Analytics
+	- Há alguma ferramente para análise de dados/tráfego que o site vai receber?
+
+- Integração com mídia social
+	- Os links/ícones de mídia social levam para as páginas corretas? E fazem o que deveriam fazer?
+
+- Links
+	- 
+
+User task Analysis
+Aprendibilidade
+	- Quão fácil é para o usuário aprender a se virar no site? Existe ajuda o suficiente como tutoriais, tool tips, inline tips, etc?
+
+Eficiência
+	- Há modos de reduzir o tempo que leva para completar determinada tarefa?
+
+Precisão
+	- Quão pronpensa a erros é a atividade? Quais os principais motivos para ocorrer qualquer erro? Como a interface pode ser melhorada para diminuir erros e repetições não necessárias?
+
+Tolerância a erros (do usuário)
+	- Se um usuário cometer um erro enquanto tiver realizando alguma tarefa (ex: voltar num formulário), quão rápido ele consegue se recuperar?
+
+Leitura:
+- Fácil compreenção
+	- O conteúdo é fácil de compreender e internalizar? As palavras utilizadas são familiares ao público esperado ou são complexas e incomuns?
+
+- Legibilidade
+	- As fontes são grandes o suficiente? O contrastre entre o texto e o background é o suficiente?
+
+Navegabilidade
+- Arquitetura da informação
+	- Quão bem as páginas estão organizadas e categorizadas?
+
+- Conteúdo 'encontrável'
+	- Existem funcionalidades o suficiente como pesquisa, páginas de arquivo, links e de navegação para ajudar o usuário à encontrar páginas relevantes?
+
+- Eficiência de navegação
+	- Quão rápido e quantas ações (número de cliques, quantidade de texto, etc) é necessária para chegar até a página de interesse?
+
+Acessibilidade
+- Compatibilidade Cross-Browser/Cross-Platform
+	- O site funciona nos 3 browsers mais utilizados? É responsivo, flexível, mudando o layout dependendo da resolução de como o usuário o vê?
+
+- Semântica HTML
+	- Especialmente para as tecnologias como leitores de tela, a qualidade e precisão da estrutura da webpage é importante. As tags HTML estão sendo utilizadas corretamente?
+
+- Escolha de cores
+	- As cores tem um bom contraste? As cores escolhidas causam algum tipo de obstáculo para quem é daltônico ou tem problema de visão?
+
+- Uso das funcionalidades de HTML para acessibilidade
+	- Existem funcionalidade e tecnicas HTML que ajudam o usuário com deficiencias visuais. Essas tecnicas estão sendo utilizadas?
+
+
+Velocidade do site
+- Tempo de resposta
+	- Quanto tempo leva para carregar completamente o site?
+
+- Tamanho da página
+	- Qual o tamanho da página, em termos de armazenamento.
+
+
+User Experience
+Cumprimento
+	- Os usuários se sentem satisfeitos utilizando o site?
+
+Utilidade
+	- O usuário sente que obteve o que desejava?
+
+
+
+Testes de funcionalidade
+	- Testar tudo completamente. Testar formulários, funções de busca, log-in, log-out, perfil, etc.
+	- Fazer também testes com pessoas não técnicas. Pegar um usuário normal e observar como um usuário comum utilizaria o site. < Chamado de teste de guerrilha
+
+
+Escopo
