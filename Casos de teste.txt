@@ -2,32 +2,32 @@
 
 Cenário: Cadastro válido
 	Quando: o usuário entra com os seguintes campos para fazer o cadastro
-	| usuario		        | senha        |Cpf            |Opção mochileiro/anfitrião   |email		|botão de Comfirmação	
-	| matheus               	| 12345        |11243328800    |mochileiro		     |matheus1@hotmail	|confirmar		
-	| lucas12               	| abcds22      |56612323400    |anfitrião                    |lucaserd@gmail.com|confirmar
+	| usuário		        | senha        | Cpf            | Opção mochileiro/anfitrião   | email		| botão de Confirmação	
+	| matheus               	| 12345        | 11243328800    | mochileiro		     | matheus1@hotmail	| confirmar		
+	| lucas12               	| abcds22      | 56612323400    | anfitrião                    | lucaserd@gmail.com| confirmar
 	Então: exibir a mensagem "Cadastro efetuado com sucesso"
 
 Cénario: Cadastro inválido 
 	Quando: o usuário colocar alguma informação inexistente
-	| usuario 		| senha        |Cpf            |Opção mochileiro/anfitrião   |email		|botão de Confirmação
-	| matheus               | 12345        |112433         |mochileiro	             |iludas@dad.com	|confirmar
-	| Lucas12               | 232@hhh      |fgghjg         |anfitrião                    |bnnvc&hotmail.com	|confirmar
+	| usuário 		| senha        | Cpf            | Opção mochileiro/anfitrião   | email		| botão de Confirmação
+	| matheus               | 12345        | 112433         | mochileiro	             | iludas@dad.com	| confirmar
+	| Lucas12               | 232@hhh      | fgghjg         | anfitrião                    | bnnvc&hotmail.com	| confirmar
 	Então: exibir a mensagem "Informação incorreta"
 
 Cenário: oferecer acomodação
 	Quando: o usuário(anfitrião) entra com os seguintes campos:
-	|cidade			| acomodação		| ajuda/serviço		|botão de Confirmação
-	| rio das cruzes	| hotel			| atendente		|Confirmar
-	| cajueiro	        | pousada		| entregador		|Confirmar
-	| Ottawa		| pousada		| tecnico me ti		|Confirmar
-	| Quebec		| hotel			| programador		|Confirmar
-	Então: exibir a mensagem "acomodação oferecida cm sucesso"
+	| cidade		| acomodação		| ajuda/serviço		| botão de Confirmação
+	| rio das cruzes	| hotel			| atendente		| Confirmar
+	| cajueiro	        | pousada		| entregador		| Confirmar
+	| Ottawa		| pousada		| tecnico me ti		| Confirmar
+	| Quebec		| hotel			| programador		| Confirmar
+	Então: exibir a mensagem "acomodação oferecida com sucesso"
 
 Cenário: oferecer acomodação inválida
 	Quando: o usuário(anfitrião) entra com os seguintes campos:
-	|cidade			| acomodação		| ajuda/serviço		|botão de Confirmação
-	|fedrin			| hotel			| atendente		|Confirmar
-	|attawa	  		| pousada	        | beber			|Confirmar
+	|cidade			| acomodação		| ajuda/serviço		| botão de Confirmação
+	|fedrin			| hotel			| atendente		| Confirmar
+	|attawa	  		| pousada	        | beber			| Confirmar
 	Então: exibir a mensagem "acomodação ou serviço inválido"
 
 Cenário: Procurar acomodação
@@ -45,7 +45,7 @@ Cenário: Avaliação da estadia
 	Então: exibir a mensagem "avaliação feita com sucesso"
 
 Cenário: Avaliação da estadia inválida
-	Quando: o usuário(muchileiro) avalia a entadia no lugar selecionado:
+	Quando: o usuário(muchileiro) avalia a estadia no lugar selecionado:
 	| usuário		| avaliação(boa, média, ruim)	| botão de Confirmação
 	| matheus		| 123dff			| Confirmar
 	| lucas1	        | horrível			| Confirmar
@@ -81,7 +81,7 @@ Cenário: Logar no sistema dados inválidos
 	| usuário		| senha        | botão de Confirmação	
 	| matheus               | sddw244      | confirmar		
 	| lucas1233             | abcds22      | confirmar
-	Então: exibir a mensagem "senha ou nome de usuario está incorreto"
+	Então: exibir a mensagem "senha ou nome de usuário está incorreto"
 
 Cenário: Deslogar do sistema
 	Quando: o usuário quero deslogar do sistema
