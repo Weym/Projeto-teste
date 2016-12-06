@@ -1,125 +1,123 @@
 Testes (que podem vir) a serem feitos:
 
-- Gram·tica e pontuaÁ„o
-	- Checar por ortografia correta, erros de digitaÁ„o e erros em geral. Checar pela navegaÁ„o, botıes, formul·rios, etc.
-- Formul·rios
+- Gram√°tica e pontua√ß√£o
+	- Checar por ortografia correta, erros de digita√ß√£o e erros em geral. Checar pela navega√ß√£o, bot√µes, formul√°rios, etc.
+- Formul√°rios
 	- O fluxo pode ser melhorado?
-	- As instruÁıes s„o claras?
-	- O formul·rio depois de completo e executado, faz o que È esperado?
+	- As instru√ß√µes s√£o claras?
+	- O formul√°rio depois de completo e executado, faz o que √© esperado?
 
 - Imagens
-	- As imagens est„o todas optimizadas para a web de acordo com onde se encontram?
-		- Ex: Uma thumbnail n„o precisa ter qualidade full hd e pesar 3mb
+	- As imagens est√£o todas optimizadas para a web de acordo com onde se encontram?
+		- Ex: Uma thumbnail n√£o precisa ter qualidade full hd e pesar 3mb
 
 - Contexto
-	- Com um olhar crÌtico, a p·gina passa facilmente qual o propÛsito dela?
-	- O conte˙do est· pronto para o visitante?
-	- A p·gina se dirige ‡ audiÍncia esperada?
+	- Com um olhar cr√≠tico, a p√°gina passa facilmente qual o prop√≥sito dela?
+	- O conte√∫do est√° pronto para o visitante?
+	- A p√°gina se dirige √† audi√™ncia esperada?
 
 - Velocidade do site
-	- Checar o tamanho das p·ginas e a velocidade de carregamento, o teste pode ser feito utilizando a ferramenta do google https://testmysite.thinkwithgoogle.com/
+	- Checar o tamanho das p√°ginas e a velocidade de carregamento, o teste pode ser feito utilizando a ferramenta do google https://testmysite.thinkwithgoogle.com/
 
 - Mobile Friendly
-	- Checar se o site È amig·vel a quem est· acessando por um dispositivo mobile.
+	- Checar se o site √© amig√°vel a quem est√° acessando por um dispositivo mobile.
 		- O google possui outra ferramenta que pode ser utilizada https://search.google.com/search-console/mobile-friendly
 
 - Compatibilidade entre os browsers
 	- O website carrega corretamente entre os browsers? (Firefox, Chrome e Edge)
 
 - Fontes
-	- A formataÁ„o est· consistente?
+	- A formata√ß√£o est√° consistente?
 
-- NavegaÁ„o
-	- Testar a navegaÁ„o exaustivamente. Ter certeza que qualquer rota possÌvel que o usu·rio tome navegando pelo site vai levar para onde È esperado, sem nenhum link quebrado ou p·gina errada. Ter certeza que a busca funciona e entrega resultados precisos.
+- Navega√ß√£o
+	- Testar a navega√ß√£o exaustivamente. Ter certeza que qualquer rota poss√≠vel que o usu√°rio tome navegando pelo site vai levar para onde √© esperado, sem nenhum link quebrado ou p√°gina errada. Ter certeza que a busca funciona e entrega resultados precisos.
 
 - Google Search Console
-	- Ferramenta gr·tis e livre para o uso que varre e avisa o site caso algo esteja errado. Aumento de p·ginas 404, detecÁ„o de malwave, erros, etc). TambÈm pode ser utilizada para monitorar a performance do site, identificar problemas, remover conte˙do n„o indexado, ver as buscas que trazem mais visitantes, checar backlinks, etc.
+	- Ferramenta gr√°tis e livre para o uso que varre e avisa o site caso algo esteja errado. Aumento de p√°ginas 404, detec√ß√£o de malwave, erros, etc). Tamb√©m pode ser utilizada para monitorar a performance do site, identificar problemas, remover conte√∫do n√£o indexado, ver as buscas que trazem mais visitantes, checar backlinks, etc.
 
-- O cÛdigo est· minificado?
-	- O cÛdigo do site foi comprimido para diminuir o tamanho e acelerar/optimizar o carregamento?
+- O c√≥digo est√° minificado?
+	- O c√≥digo do site foi comprimido para diminuir o tamanho e acelerar/optimizar o carregamento?
 
-- P·ginas 404
-	- Quando ocorrer um erro de p·gina n„o encontrada (erro 404), o site È amig·vel ao usu·rio? (levar ‡ busca, sitemap ou dizer o que pode fazer)
+- P√°ginas 404
+	- Quando ocorrer um erro de p√°gina n√£o encontrada (erro 404), o site √© amig√°vel ao usu√°rio? (levar √† busca, sitemap ou dizer o que pode fazer)
 
 - Favicon
-	- O favicon est· sendo utilizado corretamente? A simples existÍncia do favicon pode levar a uma maior credibilidade ao site
+	- O favicon est√° sendo utilizado corretamente? A simples exist√™ncia do favicon pode levar a uma maior credibilidade ao site
 
 - Tags (Title, Meta)
-	- Toda p·gina possui uma title tag ˙nica? Possuem a tag meta?
+	- Toda p√°gina possui uma title tag √∫nica? Possuem a tag meta?
 
 - Analytics
-	- H· alguma ferramente para an·lise de dados/tr·fego que o site vai receber?
+	- H√° alguma ferramente para an√°lise de dados/tr√°fego que o site vai receber?
 
-- IntegraÁ„o com mÌdia social
-	- Os links/Ìcones de mÌdia social levam para as p·ginas corretas? E fazem o que deveriam fazer?
+- Integra√ß√£o com m√≠dia social
+	- Os links/√≠cones de m√≠dia social levam para as p√°ginas corretas? E fazem o que deveriam fazer?
 
 - Links
 	- 
 
 User task Analysis
 Aprendibilidade
-	- Qu„o f·cil È para o usu·rio aprender a se virar no site? Existe ajuda o suficiente como tutoriais, tool tips, inline tips, etc?
+	- Qu√£o f√°cil √© para o usu√°rio aprender a se virar no site? Existe ajuda o suficiente como tutoriais, tool tips, inline tips, etc?
 
-EficiÍncia
-	- H· modos de reduzir o tempo que leva para completar determinada tarefa?
+Efici√™ncia
+	- H√° modos de reduzir o tempo que leva para completar determinada tarefa?
 
-Precis„o
-	- Qu„o pronpensa a erros È a atividade? Quais os principais motivos para ocorrer qualquer erro? Como a interface pode ser melhorada para diminuir erros e repetiÁıes n„o necess·rias?
+Precis√£o
+	- Qu√£o pronpensa a erros √© a atividade? Quais os principais motivos para ocorrer qualquer erro? Como a interface pode ser melhorada para diminuir erros e repeti√ß√µes n√£o necess√°rias?
 
-Toler‚ncia a erros (do usu·rio)
-	- Se um usu·rio cometer um erro enquanto tiver realizando alguma tarefa (ex: voltar num formul·rio), qu„o r·pido ele consegue se recuperar?
+Toler√¢ncia a erros (do usu√°rio)
+	- Se um usu√°rio cometer um erro enquanto tiver realizando alguma tarefa (ex: voltar num formul√°rio), qu√£o r√°pido ele consegue se recuperar?
 
 Leitura:
-- F·cil compreenÁ„o
-	- O conte˙do È f·cil de compreender e internalizar? As palavras utilizadas s„o familiares ao p˙blico esperado ou s„o complexas e incomuns?
+- F√°cil compreen√ß√£o
+	- O conte√∫do √© f√°cil de compreender e internalizar? As palavras utilizadas s√£o familiares ao p√∫blico esperado ou s√£o complexas e incomuns?
 
 - Legibilidade
-	- As fontes s„o grandes o suficiente? O contrastre entre o texto e o background È o suficiente?
+	- As fontes s√£o grandes o suficiente? O contrastre entre o texto e o background √© o suficiente?
 
 Navegabilidade
-- Arquitetura da informaÁ„o
-	- Qu„o bem as p·ginas est„o organizadas e categorizadas?
+- Arquitetura da informa√ß√£o
+	- Qu√£o bem as p√°ginas est√£o organizadas e categorizadas?
 
-- Conte˙do 'encontr·vel'
-	- Existem funcionalidades o suficiente como pesquisa, p·ginas de arquivo, links e de navegaÁ„o para ajudar o usu·rio ‡ encontrar p·ginas relevantes?
+- Conte√∫do 'encontr√°vel'
+	- Existem funcionalidades o suficiente como pesquisa, p√°ginas de arquivo, links e de navega√ß√£o para ajudar o usu√°rio √† encontrar p√°ginas relevantes?
 
-- EficiÍncia de navegaÁ„o
-	- Qu„o r·pido e quantas aÁıes (n˙mero de cliques, quantidade de texto, etc) È necess·ria para chegar atÈ a p·gina de interesse?
+- Efici√™ncia de navega√ß√£o
+	- Qu√£o r√°pido e quantas a√ß√µes (n√∫mero de cliques, quantidade de texto, etc) √© necess√°ria para chegar at√© a p√°gina de interesse?
 
 Acessibilidade
 - Compatibilidade Cross-Browser/Cross-Platform
-	- O site funciona nos 3 browsers mais utilizados? … responsivo, flexÌvel, mudando o layout dependendo da resoluÁ„o de como o usu·rio o vÍ?
+	- O site funciona nos 3 browsers mais utilizados? √â responsivo, flex√≠vel, mudando o layout dependendo da resolu√ß√£o de como o usu√°rio o v√™?
 
-- Sem‚ntica HTML
-	- Especialmente para as tecnologias como leitores de tela, a qualidade e precis„o da estrutura da webpage È importante. As tags HTML est„o sendo utilizadas corretamente?
+- Sem√¢ntica HTML
+	- Especialmente para as tecnologias como leitores de tela, a qualidade e precis√£o da estrutura da webpage √© importante. As tags HTML est√£o sendo utilizadas corretamente?
 
 - Escolha de cores
-	- As cores tem um bom contraste? As cores escolhidas causam algum tipo de obst·culo para quem È daltÙnico ou tem problema de vis„o?
+	- As cores tem um bom contraste? As cores escolhidas causam algum tipo de obst√°culo para quem √© dalt√¥nico ou tem problema de vis√£o?
 
 - Uso das funcionalidades de HTML para acessibilidade
-	- Existem funcionalidade e tecnicas HTML que ajudam o usu·rio com deficiencias visuais. Essas tecnicas est„o sendo utilizadas?
+	- Existem funcionalidade e tecnicas HTML que ajudam o usu√°rio com deficiencias visuais. Essas tecnicas est√£o sendo utilizadas?
 
 
 Velocidade do site
 - Tempo de resposta
 	- Quanto tempo leva para carregar completamente o site?
 
-- Tamanho da p·gina
-	- Qual o tamanho da p·gina, em termos de armazenamento.
+- Tamanho da p√°gina
+	- Qual o tamanho da p√°gina, em termos de armazenamento.
 
 
 User Experience
 Cumprimento
-	- Os usu·rios se sentem satisfeitos utilizando o site?
+	- Os usu√°rios se sentem satisfeitos utilizando o site?
 
 Utilidade
-	- O usu·rio sente que obteve o que desejava?
+	- O usu√°rio sente que obteve o que desejava?
 
 
 
 Testes de funcionalidade
-	- Testar tudo completamente. Testar formul·rios, funÁıes de busca, log-in, log-out, perfil, etc.
-	- Fazer tambÈm testes com pessoas n„o tÈcnicas. Pegar um usu·rio normal e observar como um usu·rio comum utilizaria o site. < Chamado de teste de guerrilha
+	- Testar tudo completamente. Testar formul√°rios, fun√ß√µes de busca, log-in, log-out, perfil, etc.
+	- Fazer tamb√©m testes com pessoas n√£o t√©cnicas. Pegar um usu√°rio normal e observar como um usu√°rio comum utilizaria o site. < Chamado de teste de guerrilha
 
-
-Escopo
