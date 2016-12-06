@@ -1,4 +1,4 @@
-Given/ When/ Then
+Given/ When/ Then e Critério de aceitação
 
 US1
 Eu como USUÁRIO
