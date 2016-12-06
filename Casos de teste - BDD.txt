@@ -3,14 +3,14 @@
 Cenário: Cadastro válido
 	Quando: o usuário entra com os seguintes campos para fazer o cadastro
 	| usuário		        | senha        | Cpf            | Opção mochileiro/anfitrião   | email		| botão de Confirmação	
-	| matheus               	| 12345        | 11243328800    | mochileiro		     | matheus1@hotmail	| confirmar		
+	| matheus               	| 12345        | 11243328800    | mochileiro		       | matheus1@hotmail	| confirmar		
 	| lucas12               	| abcds22      | 56612323400    | anfitrião                    | lucaserd@gmail.com| confirmar
 	Então: exibir a mensagem "Cadastro efetuado com sucesso"
 
 Cénario: Cadastro inválido 
 	Quando: o usuário colocar alguma informação inexistente
-	| usuário 		| senha        | Cpf            | Opção mochileiro/anfitrião   | email		| botão de Confirmação
-	| matheus               | 12345        | 112433         | mochileiro	             | iludas@dad.com	| confirmar
+	| usuário 		| senha        | Cpf            | Opção mochileiro/anfitrião   | email		        | botão de Confirmação
+	| matheus               | 12345        | 112433         | mochileiro	               | iludas@dad.com	        | confirmar
 	| Lucas12               | 232@hhh      | fgghjg         | anfitrião                    | bnnvc&hotmail.com	| confirmar
 	Então: exibir a mensagem "Informação incorreta"
 
