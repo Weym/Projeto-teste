@@ -1,6 +1,6 @@
-Given/When/Then
+Given/ When/ Then
 
-USS1
+US1
 Eu como USUÁRIO
 Desejo me Cadastrar
 Para ter ACESSO AO SISTEMA
@@ -9,7 +9,7 @@ Critério de aceitação
 O usuário tem que ser maior de 18 anos
 O campo CEP, IDADE, só deve aceitar números
 
-USS2
+US2
 Eu como USUÁRIO
 Dejeso REALIZAR BUSCAS
 Para ACHAR UMA CIDADE ESPECÍFICA
@@ -25,7 +25,7 @@ Para TER TROCA DE ACOMODAÇÃO POR SERVIÇO
 
 Critério de aceitação
 O usuário tem que estar cadastrado
-O usuário tem que ter um lugar para o  usuário mochileiro
+O usuário tem que ter um lugar para o usuário mochileiro
 O usuário tem que informar o serviço que deseja
 
 US4
@@ -39,24 +39,23 @@ O usuário deve indicar as restrições que deseja
 
 US5
 Eu como USUÁRIO
-Dejeso RECEBER DICAS DE VIAGEM
+Desejo RECEBER DICAS DE VIAGEM
 Para CHEGAR COM MAIS FACILIDADE AO DESTINO
 
 Critério de aceitação
 O usuário tem que estar cadastrado
-O usuário deve acessar a função dica den viagem
-O software deve mostrar corretamente as dicas de 
-viagem
+O usuário deve acessar a função dica de viagem
+O software deve mostrar corretamente as dicas de viagem
 
 
 US6
 Eu como USUÁRIO
-Dejeso Entrar EM CONTATO
-Para ESTABELER CONTATO COM OUTRO USUÁRIO(Anfitrião)
+Dejeso entrar EM CONTATO
+Para ESTABELER CONTATO COM OUTRO USUÁRIO (Anfitrião)
 
 Critério de aceitação
 O usuário tem que estar cadastrado
-O usuário(Mochileiro) deve pegar o contato do outro usuário(Anfitrião)
+O usuário(Mochileiro) deve pegar o contato do outro usuário (Anfitrião)
 
 US7
 Eu como USUÁRIO
@@ -71,26 +70,23 @@ O software não pode acessar a firebase sem a autenticação
 US8
 Eu como ADMINISTRADOR
 Dejeso TER ACESSO AO BANCO DE DADOS FIREBASE
-Para O código fonte realizar alterações e verificar possíveis
-falhas.
+Para O código fonte realizar alterações e verificar possíveis falhas.
 
 Critério de aceitação
 O usuário deve ser administrador 
-O adminstrador deve verificare e corrigir possiveis falhas
+O adminstrador deve verificar e corrigir possiveis falhas
 
 
 US9
 Eu como ADMINISTRADOR
 Dejeso criar uma tabela
-Para TER acesso a Locais e Dicas de Locais dentro do meu
-banco de dados Firebase.  
+Para TER acesso a Locais e Dicas de Locais dentro do meu banco de dados Firebase.  
 
 
 Critério de aceitação
 O usuário deve ser administrador 
 O adminstrador deve acessar locais dentro do banco de dados
-O adminstrador deve receber uma resposta do aplicativo assim que
-acessar a funcionalidade
+O adminstrador deve receber uma resposta do aplicativo assim que acessar a funcionalidade
 
 
 
