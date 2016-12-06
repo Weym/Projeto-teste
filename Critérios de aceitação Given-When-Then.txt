@@ -1,0 +1,98 @@
+Given/ When/ Then
+
+US1
+Eu como USUÁRIO
+Desejo me Cadastrar
+Para ter ACESSO AO SISTEMA
+
+Critério de aceitação
+O usuário tem que ser maior de 18 anos
+O campo CEP, IDADE, só deve aceitar números
+
+US2
+Eu como USUÁRIO
+Dejeso REALIZAR BUSCAS
+Para ACHAR UMA CIDADE ESPECÍFICA
+
+Critério de aceitação
+O usuário tem que estar cadastrado
+O usuário tem que buscar por cidade específica
+
+US3
+Eu como USUÁRIO
+Dejeso CADASTRAR ACOMODAÇÕES PARA O MOCHILEIRO
+Para TER TROCA DE ACOMODAÇÃO POR SERVIÇO
+
+Critério de aceitação
+O usuário tem que estar cadastrado
+O usuário tem que ter um lugar para o usuário mochileiro
+O usuário tem que informar o serviço que deseja
+
+US4
+Eu como USUÁRIO
+Dejeso CADASTRAR RESTRIÇÕES
+Para O ESTABELECIMENTO
+
+Critério de aceitação
+O usuário tem que estar cadastrado
+O usuário deve indicar as restrições que deseja
+
+US5
+Eu como USUÁRIO
+Desejo RECEBER DICAS DE VIAGEM
+Para CHEGAR COM MAIS FACILIDADE AO DESTINO
+
+Critério de aceitação
+O usuário tem que estar cadastrado
+O usuário deve acessar a função dica de viagem
+O software deve mostrar corretamente as dicas de viagem
+
+
+US6
+Eu como USUÁRIO
+Dejeso entrar EM CONTATO
+Para ESTABELER CONTATO COM OUTRO USUÁRIO (Anfitrião)
+
+Critério de aceitação
+O usuário tem que estar cadastrado
+O usuário(Mochileiro) deve pegar o contato do outro usuário (Anfitrião)
+
+US7
+Eu como USUÁRIO
+Dejeso TER ACESSO AO SISTEMA
+Para TER UMA AUTENTICAÇÃO COM O CADASTRO DO FIREBASE
+
+Critério de aceitação
+O usuário tem que estar cadastrado
+O software tem que autenticar de forma correta
+O software não pode acessar a firebase sem a autenticação
+
+US8
+Eu como ADMINISTRADOR
+Dejeso TER ACESSO AO BANCO DE DADOS FIREBASE
+Para O código fonte realizar alterações e verificar possíveis falhas.
+
+Critério de aceitação
+O usuário deve ser administrador 
+O adminstrador deve verificar e corrigir possiveis falhas
+
+
+US9
+Eu como ADMINISTRADOR
+Dejeso criar uma tabela
+Para TER acesso a Locais e Dicas de Locais dentro do meu banco de dados Firebase.  
+
+
+Critério de aceitação
+O usuário deve ser administrador 
+O adminstrador deve acessar locais dentro do banco de dados
+O adminstrador deve receber uma resposta do aplicativo assim que acessar a funcionalidade
+
+
+
+
+
+
+
+
+
